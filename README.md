@@ -1,3 +1,14 @@
+![screencapture-localhost-3000-2021-12-23-01_32_46](https://user-images.githubusercontent.com/96014490/165269050-0b5a70f9-8749-44a2-9f5a-b88f75c68a84.png)
+![screencapture-localhost-3000-2021-12-23-01_33_29](https://user-images.githubusercontent.com/96014490/165269083-6759e4b4-30b6-46ae-bb7f-a365752bacb2.png)
+![screencapture-localhost-3000-2021-12-23-01_33_55](https://user-images.githubusercontent.com/96014490/165269088-ad7fd335-e3e4-40be-86d4-d8030a9fc59f.png)
+![screencapture-localhost-3000-2021-12-23-01_34_16](https://user-images.githubusercontent.com/96014490/165269090-ea520b03-935b-4616-9c46-c60bc5cc045a.png)
+![screencapture-localhost-3000-2021-12-23-01_34_36](https://user-images.githubusercontent.com/96014490/165269099-e6e5630c-e00f-4e76-906f-5d2a8f9c0bff.png)
+![screencapture-localhost-3000-2021-12-23-01_34_57](https://user-images.githubusercontent.com/96014490/165269102-fcdead95-df1b-4b87-b569-4e7c0673f86a.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,6 +56,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+
+
+
+
+
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
@@ -68,3 +84,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
